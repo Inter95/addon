@@ -1,6 +1,8 @@
 # Alfa addon
 ### Es un proyecto sin ánimo de lucro y con fines educativos, basado en el código open source de pelisalacarta-ce, que permite utilizar Kodi u otra plataforma compatible como "navegador" para ver vídeos alojados en paginas web.
 
+[![Join the chat at https://gitter.im/Alfa_Addon/Lobby](https://badges.gitter.im/Alfa_Addon/Lobby.svg)](https://gitter.im/Alfa_Addon/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Este addon es totalmente gratuito por lo tanto esta prohibida su venta en solitario o como parte de software integrado en cualquier dispositivo, es absolutamente para uso educativo y personal.
 
 ## Colaborar
